@@ -101,18 +101,6 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayaracar2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayaracar2&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # Um pouco mais sobre mim
 
 Gosto de aprender continuamente e transformar conhecimento em projetos práticos. Acredito que a tecnologia é construída por meio da curiosidade, da colaboração e da busca constante por novos desafios.
